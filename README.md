@@ -9,7 +9,8 @@ A máquina atacante possui uma porta ouvinte na qual recebe a conexão que, por 
 
 <h3>TESTES</h3> 
 
-<p>Use um shell linux para isso você tem a opção de usar o WSL2 para fins de testes educacionais</p>
+<p>Use um shell linux para isso você tem a opção de usar o WSL2 para fins de testes educacionais no windows 10.</p>
+
 
 #https://miro.medium.com/max/2000/1*sScdGTp-NrzaFJT71MhHNg.png
 
