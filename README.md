@@ -1,6 +1,6 @@
 # Bind_Shell_Reverse
 
-# https://miro.medium.com/max/2732/1*FwQx0YhvApneNTMBnnAQeg.png
+ https://miro.medium.com/max/2732/1*FwQx0YhvApneNTMBnnAQeg.png
 
 <h1> BIND SHELL REVERSE </h1>
 
@@ -15,7 +15,7 @@ A máquina atacante possui uma porta ouvinte na qual recebe a conexão que, por 
 <p>Use um shell linux para isso você tem a opção de usar o WSL2 para fins de testes educacionais no windows 10.</p>
 
 
-#https://miro.medium.com/max/2000/1*sScdGTp-NrzaFJT71MhHNg.png
+https://miro.medium.com/max/2000/1*sScdGTp-NrzaFJT71MhHNg.png
 
 
 <footer><p>By Rietesh Amminabhavi</p></footer>
